@@ -1,4 +1,3 @@
 <h1>
-    programando en vscode problema posponer poner proponer
-    nice
+    programando en vscode
 </h1>
